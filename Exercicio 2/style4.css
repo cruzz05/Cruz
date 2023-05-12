@@ -1,0 +1,10 @@
+img1 {
+    height: 300px;
+    width: 1550px;
+    justify-content: center;
+    display: flex;
+}
+
+body{
+    background-color: antiquewhite;
+}

@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(117, 210, 122);
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+}
+
+.texto{
+    color: rgb(79, 182, 182);
+}
+.img1 {
+    height: 300px;
+    width: 1550px;
+    justify-content: center;
+    display: flex;
+}
+.h1 {
+    color: slateblue; /*Cor do texto*/
+    text-align: center;
+}
+.img2 {
+height: 300px;
+width: 1400;
+justify-content: center;
+display: flex;
+}

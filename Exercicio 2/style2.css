@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(41, 96, 58);
+}
+
+h1 {
+    color: slateblue; /*Cor do texto*/
+    text-align: center;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+}
+
+.texto{
+    color: rgb(79, 182, 182);
+}
