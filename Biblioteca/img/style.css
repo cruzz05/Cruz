@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(216, 203, 193);
+}
+
+h1 {
+    color: slateblue; /*Cor do texto*/
+    text-align: center;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+}
+
+.texto{
+    color: darkslategrey;
+}
+
+
+div {
+    text-align: center;
+}
+.img1 img {
+    text-align: center;
+}
+.img2 img{
+    text-align: center;
+}
